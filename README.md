@@ -4,7 +4,7 @@
   </head>
 
   <body>
-    <p style="background-color: blue;">Amir</p>
+    <p style="color: blue;">Amir</p>
     <p>rafiya anjum</p>
     <p>vajeeha</p>
     <p>yasir Saeed</p>
