@@ -1,15 +1,10 @@
 <html>
-
   <head>
-      <title> list <\title>
+    <title>style<\title>
+      <p>Amir</p>
+      <p>rafiya anjum</p>
+      <p>vajeeha</p>
+      <p>yasir Saeed</p>
+      <p>tariq</p>
   </head>
-        <body>
-           <ol type="a+i">
-           <li>amir</li>
-           <li>Anjum</li>
-           <li>vajeeha</li>
-           <li>yasir saeed</li>
-           <li>tariq</li>
-           </ol>
-        </body>
-      </html>
+</html>
