@@ -4,7 +4,7 @@
       <title>list<\title>
   </head>
         <body>
-           <ul type="↑">
+           <ul type="color📗">
            <li>amir</li>
            <li>Anjum</li>
            <li>vajeeha</li>
