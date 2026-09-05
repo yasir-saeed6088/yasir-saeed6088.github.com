@@ -4,12 +4,12 @@
       <title>list<\title>
   </head>
         <body>
-           <ul type="color📗">
+           <ol type="a">
            <li>amir</li>
            <li>Anjum</li>
            <li>vajeeha</li>
            <li>yasir saeed</li>
            <li>tariq</li>
-           </ul>
+           </ol>
         </body>
       </html>
