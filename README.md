@@ -1,10 +1,10 @@
 <html>
 
   <head>
-      <title>list<\title>
+      <title> list <\title>
   </head>
         <body>
-           <ol type="a">
+           <ol type="a+i">
            <li>amir</li>
            <li>Anjum</li>
            <li>vajeeha</li>
